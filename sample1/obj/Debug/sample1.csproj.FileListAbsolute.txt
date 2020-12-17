@@ -1,0 +1,6 @@
+D:\LTI\JENKINS_HANDSON\sample1\sample1\bin\Debug\sample1.exe.config
+D:\LTI\JENKINS_HANDSON\sample1\sample1\bin\Debug\sample1.exe
+D:\LTI\JENKINS_HANDSON\sample1\sample1\bin\Debug\sample1.pdb
+D:\LTI\JENKINS_HANDSON\sample1\sample1\obj\Debug\sample1.csproj.CoreCompileInputs.cache
+D:\LTI\JENKINS_HANDSON\sample1\sample1\obj\Debug\sample1.exe
+D:\LTI\JENKINS_HANDSON\sample1\sample1\obj\Debug\sample1.pdb
